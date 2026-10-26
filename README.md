@@ -1,22 +1,16 @@
-# MandarinWidget — Site légal FR/EN (brouillon)
+# MandarinWidget — site d’assistance et d’informations légales FR/EN
 
-Dépôt GitHub Pages distinct de l'application MandarinWidget. Les textes sont issus de `data/legalContent.ts` du dépôt `Diooze/MandarinWidget` en date d'octobre 2026.
+GitHub Pages : https://diooze.github.io/MandarinWidget-Legal/
 
-## Installation sur GitHub Pages
+- Politique de confidentialité : privacy-fr.html / privacy-en.html
+- Conditions d’utilisation : terms-fr.html / terms-en.html
+- Assistance : support-fr.html / support-en.html
+- Contact : languagewidget@gmail.com
 
-Ouvrir **Settings → Pages → Build and deployment → Deploy from a branch**. Choisir **main** puis **/(root)** et cliquer **Save**.
+Pages mises à jour le 26 octobre 2026. Les textes doivent rester cohérents avec la version intégrée dans l’application.
 
-L'adresse prévue (après activation et déploiement) est :
-https://diooze.github.io/MandarinWidget-Legal/
+## Vérifications avant publication sur l'App Store
 
-Les fichiers incluent un site français et anglais, les pages Confidentialité, Conditions, Support et une feuille de style commune.
+L’identité et les coordonnées légales de l’éditeur, les délais et bases légales du traitement des e-mails de support, les pratiques de confidentialité des SDK du build iOS, les déclarations App Privacy, les conditions commerciales et les licences des dictionnaires doivent encore être vérifiées.
 
-## Avant publication sur les stores
-
-**Ce site est un BROUILLON, pas une politique légale finalisée**. Ne pas encore utiliser ses pages comme documents définitifs dans App Store Connect.
-
-- Confirmer le statut juridique, l'identité légale, les mentions d'adresse et les obligations de commerçant si applicables.
-- Relire et confirmer la confidentialité sur les builds natifs distribués et les SDK tiers, traitement des demandes d'assistance, sauvegardes.
-- Vérifier les conditions commerciales, le prix Apple localisé et les droits de rétractation.
-- Vérifier les licences et obligations d'attribution/redistribution des dictionnaires.
-- Ajouter une date d'entrée en vigueur puis retirer l'avertissement BROUILLON et le blocage d'indexation `noindex,nofollow` après validation.
+La suppression de la mention « Brouillon » sur les pages publiques n’est pas une validation juridique. Voir la checklist interne du dépôt MandarinWidget.
